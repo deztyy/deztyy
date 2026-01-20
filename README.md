@@ -1,7 +1,7 @@
 <h1 align="center"> Hi !, 👋🏻 My name is Thibet W. </h1>  
 
 <h3 align="center"> I’m a Computer Engineering student </h3>  
-<h3 align="center"> -----------------------------------------------------------------------------------------------------------------------------</h3>  
+<h3 align="center"> -------------------------------------------------------------------------------------------------------------------</h3>  
 
 🔭 I’m currently working on @KASETSART-UNIVERSITY
 
