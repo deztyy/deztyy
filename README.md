@@ -6,7 +6,6 @@ I’m a Computer Engineering student
 
 🔭 I’m currently working on @KASETSART-UNIVERSITY
 
-📫 How to reach me tibet2546@gmail.com
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [tibet2546@gmail.com](mailto:tibet2546@gmail.com)
